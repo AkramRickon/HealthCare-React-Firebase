@@ -4,7 +4,7 @@ MedPlus Hospital
 
 
 Runs the app in the development mode.\
-Project [Live link](https://hungry-kilby-e018be.netlify.app/) to view it in the browser.
+Project [Live link](https://hungry-kilby-e018be.netlify.app/)
 
 - This is a multi page medical service based website
 - Here you will find the different servicecs including diagnostics , doctors and medicines.
