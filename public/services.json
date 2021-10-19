@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Dental and Oral Care",
+    "details": " MedPlus Dental center ensures experienced Dental Surgeon, modern and disinfected equipment, trained dentist.",
+    "services": "Root Canal Treatment on single siting,Orthodontics Treatment,Prosthodontic Treatment,Endodontics Treatment,Maxiloficial Surgery,All Kinds of Oral & Dental Surgery,Conservative dentistry & other Dental Treatment,We have Experienced & Specialized Dental Surgeon We have Male & Female Dental Surgeon.",
+    "category": "dental",
+    "serviceTime": "09 AM -10 PM",
+    "doctors": "Dr. Md. Masudur Rahman,Dr. Najran Kader Chowdhari",
+    "photo": "https://i.ibb.co/51KF6yB/rsz-geo-days-u2i16i-jc-unsplash.jpg",
+    "contact": 192123435345
+  },
+  {
+    "id": 2,
+    "name": "Diagnostics",
+    "details": " MedPlus Diagnostic Laboratory having a state of art technology for medical diagnostic laboratory.",
+    "services": "MRI CITY SCAN X-RAY USG ECG ECHOCARDIOGRAM COLOR DOPLLER ENDOSCOPY ERCP COLONOSCOPY COLPOSCOPY EEG NCV/EMG FIBER OPTIC LARYNGOSCOPY.",
+    "category": "diagnostics",
+    "serviceTime": "07 AM - 11 PM",
+    "doctors": "Dr. Afsara Nower,Dr. Afsara Nower,Dr.Habibur rahman,Dr Dilara jaman",
+    "photo": "https://i.ibb.co/6JZFzhS/rsz-upmceast-ctscan.jpg",
+    "contact": 182123435345
+  },
+  {
+    "id": 3,
+    "name": "Pain and Physiotherapy",
+    "details": "MedPlus offers the approach best of pain relief, physical therapy and medical care through appropriate medical consultancy.",
+    "services": "Ultra Sound Therapy(UST),Infrared Therapy(IRR)Short- wave Diathermy(SWD),Laser Therapy,Lumber Traction,Cervical Traction,Transcutenious Electrical Nerve Stimulation(TENS),Interferential,Therapy(IFT),Electrical Stimulation Therapy(EST),Paraffin Wax - Bath.",
+    "category": "therapy",
+    "serviceTime": "10 AM - 06 PM",
+    "doctors": "Dr. Md. Masudur Rahman,Dr. Najran Kader Chowdhari",
+    "photo": "https://i.ibb.co/qxbt3ch/rsz-highlighted-spine-man-physiotherapy-digital-composite-men-53051926.jpg",
+    "contact": 162123435345
+  },
+  {
+    "id": 4,
+    "name": "Diabetes Center",
+    "details": "Diabetes Mellitus is classed as a metabolism disorder. Metabolism refers to the way our bodies use digested food for energy and growth.",
+    "services": "Diabetes consultant at morning and evening,Nutritionist Advice,Counseling for the,change of lifestyle and food habit,Diabetes Health check up,Consultant & Laboratories facilities for all department,Comparably at low cost,Consultant & Laboratories facilities for all department",
+    "category": "diabetes",
+    "serviceTime": "08 AM - 05 PM",
+    "doctors": "Dr. Md. Samsur  Rahman,Dr. Afsana Kader",
+    "photo": "https://i.ibb.co/d7RSW1h/1.jpg",
+    "contact": 152123435345
+  },
+  {
+    "id": 5,
+    "name": "Eye Centre Center",
+    "details": "The Eye department of MedPlus Hospital Dhaka has comprehensive treatment including basic and advanced treatment for patients. ",
+    "services": "Diabetic Retinopathy,Retinal Vascular Diseases,Flashes and Floaters,Central Serous Chorioretinopathy,Infectious Chorioretinitis,Endophthalmitis,Age-Related Macular Degeneration,Vitreous Haemorrhage,Macular OedemaSerous Retinal Dethchment,Peripheral Retinal Degenerations.",
+    "category": "eye",
+    "serviceTime": "08 AM - 05 PM",
+    "doctors": "Dr. Md. Samsur  Rahman,Dr. Afsana Kader",
+    "photo": "https://i.ibb.co/7Vg8K1W/consult.jpg",
+    "contact": 121234353450
+  },
+  {
+    "id": 6,
+    "name": "NICU",
+    "details": "The Neonatal Intensive Care Unit at MedPlus Hospital is a specialist intensive care unit which provides high quality care for newborn babies.",
+    "services": "Common and high frequency ventilation as well as nitric oxide.Total body cooling with Tecotherm (therapeutic hypothermia) for children born with Hypoxic Ischemic Encephalopathy.Follow the care and neurodevalemal assessment among patients for monitoring the progress of our NICU treatment children.All children go through OAE screening or hearing before discharge.The pregnancy screening program reform program is done by our team of volunteers.Neonatal units have well-trained nurses, physiotherapists, lecture therapists, pharmacists and dieticians.",
+    "category": "nicu",
+    "serviceTime": "24 Hours",
+    "doctors": "Dr. Md. Jubaidul Islam,Dr. Md. Imamur Rashid,Dr. Md. Mahfuzul Alam",
+    "photo": "https://i.ibb.co/QFMRL2L/rsz-nicu.jpg",
+    "contact": 1124567890
+  },
+  {
+    "id": 7,
+    "name": "Surgery",
+    "details": "Eight operation theatres are working round the clock with the guidance of experienced surgeons.",
+    "services": "General Surgery,Advanced Laparoscopic Surgery (Cholecystectomy, Appendicectomy,Head & Neck Surgery,Hepatobilliary Surgery,Upper GI Surgery,Neuro Surgery,Spine Surgery,Knee replacement and Arthroscopic surgery,Urology (Prostate, Kidney, Urinary bladder, Ureter, Urethra),Paediatric Surgery,Colorectal surgery,Orthopaedic surgery,Plastic and cosmetic surgery,Barriartic surgery,Dermato sugery,Onco surgery, Laser and vascular surgery,Gynae & obs surgery,Thoracic surgery,Cardiac surgery,Dental surgery,Hand surgery.",
+    "category": "surgery",
+    "serviceTime": "24 Hours",
+    "doctors": "Surgen for each department is available",
+    "photo": "https://i.ibb.co/qNvcGJy/rsz-team-surgery.jpg",
+    "contact": 12378
+  },
+  {
+    "id": 8,
+    "name": "Medicine Corner",
+    "details": "Medicine Corner what is open 24/7, located at ground floor of the hospital building. Our expert pharmacists deliver professional knowledge in dealing your medicine and prescription.",
+    "services": "All kinds of medicine prescribed by our Doctors are available here with 20% discount.We also provide Home delivery services.Delivery time takes 20-30 mins inside dhaka. Delivary charge should be paid in advance",
+    "category": "medicine",
+    "serviceTime": "24 Hours",
+    "doctors": "Maintained by our senior",
+    "photo": "https://i.ibb.co/9HqmvT3/rsz-1550483864medicine-corner.jpg",
+    "contact": 99606063014
+  }
+]

@@ -1,0 +1,74 @@
+ [
+  {
+    "id": 1,
+    "name": "Dr. Md. Khalequzzaman",
+    "designation": "Consultant - Medicine & Cardiology.",
+    "photo": "https://i.ibb.co/1qRFs0M/1556174622.png",
+    "fees": "600 BDT",
+    "visitingTime": "5PM -8PM"
+  },
+  {
+    "id": 2,
+    "name": "Prof. Dr. Md. Mohiuddin Ahmad",
+    "designation": "Consultant - Medicine & Chest.",
+    "photo": "https://i.ibb.co/jWYzk5M/1556174705.png",
+    "fees": "800 BDT",
+    "visitingTime": "5PM -8PM"
+  },
+  {
+    "id": 3,
+    "name": "Professor Dr. Sharif Uddin Khan",
+    "designation": "Consultant - Neurology.",
+    "photo": "https://i.ibb.co/3BDzzr0/1556174956.jpg",
+    "fees": "800 BDT",
+    "visitingTime": "5PM -8PM"
+  },
+  {
+    "id": 4,
+    "name": " Professor Dr. Shamimur Rahman",
+    "designation": "Consultant - Nephrology.",
+    "photo": "https://i.ibb.co/wWvhw9P/1556175007.png",
+    "fees": "800 BDT",
+    "visitingTime": "5PM -8PM"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Shah M. Hafizur Rahman (Mujahid)",
+    "designation": "Consultant - Orthopedics.",
+    "photo": "https://i.ibb.co/pKgsR3m/1556187021.jpg",
+    "fees": "800 BDT",
+    "visitingTime": "5PM -8PM"
+  },
+  {
+    "id": 6,
+    "name": "Prof. Dr. Fakhrul Islam",
+    "designation": "Consultant - EYE.",
+    "photo": "https://i.ibb.co/ftHph9Q/1556187030.jpg",
+    "fees": "800 BDT",
+    "visitingTime": "5PM -8PM"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Md Abdal Miah.",
+    "designation": "Consultant - Skin & VD.",
+    "photo": "https://i.ibb.co/XFRbwPc/1556195030.png",
+    "fees": "800 BDT",
+    "visitingTime": "5PM -8PM"
+  },
+  {
+    "id": 8,
+    "name": "Professor Faruk Ahmad.",
+    "designation": "Consultant - Surgery",
+    "photo": "https://i.ibb.co/XLM2YZm/1556174823.jpg",
+    "fees": "800 BDT",
+    "visitingTime": "5PM -8PM"
+  },
+  {
+    "id": 9,
+    "name": "Prof. Dr. M A Motin.",
+    "designation": "Consultant - ENT",
+    "photo": "https://i.ibb.co/F6dX9jb/1556187032.png",
+    "fees": "800 BDT",
+    "visitingTime": "5PM -8PM"
+  }
+]
