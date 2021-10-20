@@ -26,8 +26,7 @@ const ContactUS = () => {
                             <h6>+8802-83900010</h6>
                             <h6>Mobile Number</h6>
                             <h6>+88019522893329</h6>
-                            <h6>Management Number</h6>
-                            <h6>+88018454444446</h6>
+                            
                         </Col>
                         <Col className=" border-style">
                             <h1><i className="fas fa-user-md text-success"></i></h1>
