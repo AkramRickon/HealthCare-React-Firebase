@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Container, Row } from 'react-bootstrap';
 import Doctor from '../Doctor/Doctor';
+import './Doctors.css'
 
 const Doctors = () => {
 
@@ -14,7 +15,8 @@ const Doctors = () => {
 
     return (
         <Container className="my-5">
-            <h3 className="text-center my-5">Our Doctors</h3>
+            <h2 className="text-center mt-5">Our Doctors</h2>
+            <div className="line1 mb-5 mx-auto"></div>
 
            <Container>
                <Row xs={1} md={2} lg={4} className="g-5">

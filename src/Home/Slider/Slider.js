@@ -5,7 +5,7 @@ import slider3 from '../../images/Slider/3.jpg';
 import slider4 from '../../images/Slider/5.jpg';
 import slider5 from '../../images/Slider/6.jpg';
 
-import { Carousel, Container } from 'react-bootstrap';
+import { Carousel } from 'react-bootstrap';
 
 
 const Slider = () => {

@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './Header/Header';
@@ -18,7 +18,7 @@ import HospitalServices from './HospitalServices/HospitalServices';
 
 function App() {
   return (
-   <div className="m-0">
+   <div className="">
       <AuthProvider>
       <Router>
         <Header></Header>

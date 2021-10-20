@@ -7,7 +7,8 @@ const ContactUS = () => {
 
         
             <Container className="mb-5 pb-5" >
-                <h3 className="my-5 text-center">Contact US</h3>
+                <h2 className="mt-5 text-center">Contact US</h2>
+                <div className="line1 mb-5 mx-auto"></div>
                 <h4 className="text-center my-5">WE ARE IN DHAKA, BANGLADESH</h4>
                 <Container>
                     <Row lg={4} md={2} xs={1} className=" g-5 text-center">

@@ -3,7 +3,7 @@ import { CardGroup, Card, Col } from 'react-bootstrap';
 import './Doctor.css';
 
 const Doctor = (props) => {
-    const { name, photo, designation, fees, visitingTime } = props.doctor;
+    const { name, photo, designation, visitingTime } = props.doctor;
     return (
         <CardGroup>
             <Col>

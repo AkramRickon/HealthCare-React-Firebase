@@ -4,7 +4,7 @@ import './HospitalService.css';
 
 const HospitalService = (props) => {
     const {name,photo,services,serviceTime,contact,doctors}=props.hospitalService;
-    console.log(props);
+    // console.log(props);
     return (
         <CardGroup>
             <Card className="border-0 shadow rounded">

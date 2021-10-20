@@ -1,7 +1,10 @@
 import React from 'react';
+import './HospitalServices.css'
 import { useEffect, useState } from 'react';
-import { Col, Container, Row } from 'react-bootstrap';
+import { Container, Row } from 'react-bootstrap';
 import HospitalService from './HospitalService/HospitalService';
+
+// THis component is headers Service component 
 
 const HospitalServices = () => {
 
@@ -17,7 +20,8 @@ const HospitalServices = () => {
     return (
         <div>
             <Container className=" pb-5">
-                <h3 className="text-center my-5">Our Services</h3>
+                <h2 className="text-center mt-5">Our All Services</h2>
+                <div className="line3 mb-5 mx-auto"></div>
                 <Container>
                 <Row xs={1} md={2} lg={2} className="g-5">
                 {
