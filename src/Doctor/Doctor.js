@@ -14,7 +14,8 @@ const Doctor = (props) => {
                         <Card.Text>
                             <small>{designation}</small><br/>
                             <small>{visitingTime}</small><br/>
-                            <small>{fees}</small><br/>
+                            {/* <small>{fees}</small><br/> */}
+                            <small> <i className="pe-1 text-primary fas fa-phone-alt"></i>10606</small><br/>
 
                         </Card.Text>
                     </Card.Body>

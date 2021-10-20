@@ -33,11 +33,13 @@ const Home = () => {
 
 
     return (
-        <div>
-            <Slider></Slider>
+        <>
+         <Slider></Slider>
+        <Container className="">
+           
             <h3 className="text-center my-5">Our services</h3>
             <Container>
-                <Row xs={1} md={2} lg={3} className="g-5">
+                <Row xs={1} md={2} lg={3} className="g-4">
                     {
                         services.map(service => <Service service={service} key={service.id}></Service>)
                     }
@@ -73,7 +75,8 @@ const Home = () => {
                 </Row>
 
             </Container>
-        </div>
+        </Container>
+        </>
     );
 };
 export default Home;

@@ -5,7 +5,7 @@ import { Col, Container, Row } from 'react-bootstrap';
 const Footer = () => {
     return (
         <div>
-            <div className="bg-dark">
+            <div className="bg-dark w-100">
             <Container>
                 {/* Footer is devided into three columns */}
                 <Row xs={1} md={3} className="g-4">
@@ -14,7 +14,7 @@ const Footer = () => {
                             <li><h5>ADDRESS</h5></li>
                         </ul>
                         <ul>
-                            <li><h6>House#15-19</h6></li>
+                            <li><h6>House # 15-19</h6></li>
                             <li><h6>Block-E, Banasree</h6></li>
                             <li><h6>Main Road, Rampura</h6></li>
                             <li><h6>Dhaka-1219</h6></li>

@@ -13,7 +13,7 @@ const Doctors = () => {
 
 
     return (
-        <div className="my-5">
+        <Container className="my-5">
             <h3 className="text-center my-5">Our Doctors</h3>
 
            <Container>
@@ -23,7 +23,7 @@ const Doctors = () => {
                 }
                </Row>
            </Container>
-        </div>
+        </Container>
     );
 };
 

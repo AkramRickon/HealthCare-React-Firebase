@@ -18,7 +18,8 @@ import HospitalServices from './HospitalServices/HospitalServices';
 
 function App() {
   return (
-    <AuthProvider>
+   <div className="m-0">
+      <AuthProvider>
       <Router>
         <Header></Header>
         <Switch>
@@ -53,6 +54,7 @@ function App() {
         <Footer></Footer>
       </Router>
     </AuthProvider>
+   </div>
   );
 }
 
